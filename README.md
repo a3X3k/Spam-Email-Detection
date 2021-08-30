@@ -1,18 +1,16 @@
 <div align = "center">
   
 
-# [Spam-Email-Detection](#)
+# [Spam Email Detection](#)
 
 ## A ML based project in progress
 
 ### Team Members
 
-S Abhishek
-Harsha Sathish
-Navneeth Kumar Singh
-Arvind Kumar K
-
-<br/>
+S Abhishek  <br/>
+Harsha Sathish <br/>
+Navneeth Kumar Singh <br/>
+Arvind Kumar K <br/>
 
 ## Progress Tracker
 
