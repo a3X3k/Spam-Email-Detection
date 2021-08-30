@@ -1,4 +1,7 @@
-# Spam-Email-Detection
+<div align = "center">
+  
+
+# [Spam-Email-Detection](#)
 
 ## A ML based project in progress
 
@@ -9,7 +12,6 @@
 - Navneeth Kumar Singh
 - Arvind Kumar K
 
-<div align = "center">
 
 ## Progress Tracker
 
