@@ -9,3 +9,15 @@
 - Navneeth Kumar Singh
 - Arvind Kumar K
 
+<div align = "center">
+
+## Daily Progress
+
+| Name           | Collab Link |
+|----------------|---------------|
+| Harsha Sathish   | |  
+| Navneet Kumar    | |  
+| Arvind Kumar    | |  
+| Abhishek   | |
+</div>
+
