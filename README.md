@@ -11,7 +11,7 @@
 
 <div align = "center">
 
-## Daily Progress
+## Progress Tracker
 
 | Name           | Collab Link |
 |----------------|---------------|
