@@ -13,7 +13,7 @@ Arvind Kumar K <br/>
 
 | Name           | Collab Link |
 |----------------|---------------|
-| Harsha Sathish   | [:)](https://colab.research.google.com/drive/1vwr8shyuZ8q5AOgRhHG4hKCSJOzpC0wK#scrollTo=9J4Tm6sg6ozI) |  
+| Harsha Sathish   | [:)](https://colab.research.google.com/drive/1vwr8shyuZ8q5AOgRhHG4hKCSJOzpC0wK?usp=sharing) |  
 | Navneet Kumar    | [:)]() |  
 | Arvind Kumar    | [:)]()  |  
 | Abhishek   | [:)](https://colab.research.google.com/drive/1hg2pC4aq4lhtSATaeezP-JyF63JoXzNi?usp=sharing)  |
