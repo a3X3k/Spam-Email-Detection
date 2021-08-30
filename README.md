@@ -1,9 +1,6 @@
 <div align = "center">
-  
 
 # [Spam Email Detection](#)
-
-## A ML based project in progress
 
 ### Team Members
 
