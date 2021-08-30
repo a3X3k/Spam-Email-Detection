@@ -7,11 +7,12 @@
 
 ### Team Members
 
-- S Abhishek
-- Harsha Sathish
-- Navneeth Kumar Singh
-- Arvind Kumar K
+S Abhishek
+Harsha Sathish
+Navneeth Kumar Singh
+Arvind Kumar K
 
+<br/>
 
 ## Progress Tracker
 
