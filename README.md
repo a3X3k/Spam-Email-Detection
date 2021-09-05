@@ -51,7 +51,7 @@
   
 <br/>
   
-## Progress
+## Progress ( Line 6 to 22 ) - Deadline Thursday 9th
 
 | To Do           | Brief | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|
