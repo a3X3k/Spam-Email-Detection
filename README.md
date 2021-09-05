@@ -21,6 +21,18 @@
 | Project Report    | [Report](https://pythonbaba.com/email-spam-classification-project-report/) |
 | Project Code    | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) |
 | Project Code Explanation    | [Code Explanation](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)  |
+  
+  
+<br/>
+  
+## Data Set Links
+
+| Name           | Link |
+|----------------|---------------|
+|  Enron   | [](http://www2.aueb.gr/users/ion/data/enron-spam/) |
+| Kaggle | [](https://www.kaggle.com/ganiyuolalekan/spam-assassin-email-classification-dataset) | 
+| Kaggle | [](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset) | 
+| Kaggle | [](https://www.kaggle.com/pramodgupta92/fraud-email-datasets) | 
 
 <br/>
 
