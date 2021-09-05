@@ -60,8 +60,7 @@
 |  Remove the Rows with Null values   | Use python methods to nullify |  | | | | |
 |  Verify that there is no more Null values   | Use python methods to verify |  | | | | |
 |  Summarization - Statistics  | Use statistical methods to understand the data and apply the required methods. |  | | | | |
-|  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your 
-interpretations with varying values |  |  | | | |
+|  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your interpretations with varying values |  |  | | | |
 |  Interpretation  | Record all your findings and summary about data. Document all the results with relevant screenshots. Upload the original as well as the cleaned data. |  | | | | |
   
 </div>
