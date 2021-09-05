@@ -8,6 +8,17 @@ S Abhishek  <br/>
 Harsha Sathish <br/>
 Navneeth Kumar Singh <br/>
 Arvind Kumar K <br/>
+  
+  
+## Reference Links
+
+| Name           | Link |
+|----------------|---------------|
+| Project Report    | [Report](https://pythonbaba.com/email-spam-classification-project-report/) |
+| Project Code    | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) |
+| Project Code Explanation    | [Code Explanation](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)  |
+
+<br/>
 
 ## Progress Tracker
 
