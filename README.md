@@ -51,11 +51,11 @@
   
 <br/>
   
-## Progress ( Line 6 to 22 ) - Deadline Thursday 9th
+##  :x: :heavy_check_mark: Progress ( Line 6 to 22 ) - Deadline Thursday 9th
 
 | To Do           | Brief | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|
-|  Add Length Column   | Text Length in seperate column |  |  |  | :x: :heavy_check_mark: |
+|  Add Length Column   | Text Length in seperate column |  |  |  ||
 |  Clean the text & add it in new column   |  Text related preprocessing (stop words removal, word stemming). Conversion of text data to numeric (Tf-idf) |  |  |  |  |
 |  Remove the Rows with Null values   | Use python methods to nullify |  |  |  |  |  |
 |  Verify that there is no more Null values   | Use python methods to verify |  |  |  |  |  |
