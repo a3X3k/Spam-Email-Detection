@@ -33,6 +33,8 @@
 | Kaggle | [Kaggle](https://www.kaggle.com/ganiyuolalekan/spam-assassin-email-classification-dataset) | 
 | Kaggle | [Kaggle](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset) | 
 | Kaggle | [Kaggle](https://www.kaggle.com/pramodgupta92/fraud-email-datasets) | 
+| Kaggle | [Kaggle](https://www.kaggle.com/harshsinha1234/email-spam-classification) | 
+| Kaggle | [Kaggle](https://www.kaggle.com/venky73/spam-mails-dataset) | 
 
 <br/>
 
