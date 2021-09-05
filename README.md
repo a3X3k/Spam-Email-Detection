@@ -54,7 +54,7 @@
 ## Progress
 
 | To Do           | Brief | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
-|----------------|---------------|---------------|
+|----------------|---------------|---------------|----------------|---------------|---------------|
 |  Add Length Column   | Text Length in seperate column |  |
 |  Clean the text & add it in new column   |  Text related preprocessing (stop words removal, word stemming). Conversion of text data to numeric (Tf-idf) |  | | | |
 |  Remove the Rows with Null values   | Use python methods to nullify |  | | | | |
