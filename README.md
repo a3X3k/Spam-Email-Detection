@@ -29,10 +29,10 @@
 
 | Name           | Link |
 |----------------|---------------|
-|  Enron   | [](http://www2.aueb.gr/users/ion/data/enron-spam/) |
-| Kaggle | [](https://www.kaggle.com/ganiyuolalekan/spam-assassin-email-classification-dataset) | 
-| Kaggle | [](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset) | 
-| Kaggle | [](https://www.kaggle.com/pramodgupta92/fraud-email-datasets) | 
+|  Enron   | [Enron](http://www2.aueb.gr/users/ion/data/enron-spam/) |
+| Kaggle | [Kaggle](https://www.kaggle.com/ganiyuolalekan/spam-assassin-email-classification-dataset) | 
+| Kaggle | [Kaggle](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset) | 
+| Kaggle | [Kaggle](https://www.kaggle.com/pramodgupta92/fraud-email-datasets) | 
 
 <br/>
 
