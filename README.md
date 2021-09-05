@@ -48,5 +48,21 @@
 | Navneet Kumar    | 3 |    
 | Abhishek   | 4 | 
   
+  
+<br/>
+  
+## Data Set Assignment
+
+| To Do           | Brief | Progress |
+|----------------|---------------|---------------|
+|  Add Length Column   |  |  |
+|  Clean the text & add it in new column   |  Text related preprocessing (stop words removal, word stemming). Conversion of text data to numeric (Tf-idf) |  |
+|  Remove the Rows with Null values   |  |  |
+|  Verify that there is no more Null values   |  |  |
+|  Summarization - Statistics  | Use statistical methods to understand the data and apply the required methods. |  |
+|  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your 
+interpretations with varying values |  | 
+|  Interpretation  | Record all your findings and summary about data. Document all the results with relevant screenshots. Upload the original as well as the cleaned data. |  |
+  
 </div>
 
