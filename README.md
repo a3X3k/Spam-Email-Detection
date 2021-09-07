@@ -27,6 +27,7 @@
   
 ## Data Set Links
 
+| Data Set | Data Set |
 |----------------|---------------|
 | [Enron](http://www2.aueb.gr/users/ion/data/enron-spam/) | [Kaggle](https://www.kaggle.com/ganiyuolalekan/spam-assassin-email-classification-dataset) | 
 | [Kaggle](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset) | Kaggle | [Kaggle](https://www.kaggle.com/pramodgupta92/fraud-email-datasets) | 
