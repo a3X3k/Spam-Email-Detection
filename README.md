@@ -23,7 +23,7 @@
 | Project Code  2  | [Code](https://www.analyticsvidhya.com/blog/2021/08/email-spam-detection-a-comparative-analysis-of-4-machine-learning-models/) |
 | Project Code Explanation    | [Code Explanation](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)  |
 | Data Pre Processing   | [Reference](https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/)   
-| Tf-Tdf                | [TF-IDF](https://www.youtube.com/watch?v=hXNbFNCgPfY) 
+| Tf-Idf                | [TF-IDF](https://www.youtube.com/watch?v=hXNbFNCgPfY) 
   
 <br/>
   
