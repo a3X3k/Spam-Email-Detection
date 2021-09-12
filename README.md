@@ -19,7 +19,8 @@
 | Name           | Link |
 |----------------|---------------|
 | Project Report    | [Report](https://pythonbaba.com/email-spam-classification-project-report/) |
-| Project Code    | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) |
+| Project Code  1  | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) |
+| Project Code  2  | [Code](https://www.analyticsvidhya.com/blog/2021/08/email-spam-detection-a-comparative-analysis-of-4-machine-learning-models/) |
 | Project Code Explanation    | [Code Explanation](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)  |
 | Data Pre Processing   | [Reference](https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/)   
   
