@@ -26,6 +26,7 @@
 | TF - IDF - Youtube        | [TF - IDF](https://www.youtube.com/watch?v=hXNbFNCgPfY) |
 | TF - IDF Transformer & TF - IDF Vectorizer | [TF - IDF](https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/) |
 | TF - IDF with Scikit-Learn | [TF - IDF](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html) |  
+| Exploratory Data Analysis | [EDA](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a) |
   
 <br/>
   
