@@ -19,9 +19,13 @@
 | Name           | Link |
 |----------------|---------------|
 | Project Report    | [Report](https://pythonbaba.com/email-spam-classification-project-report/) |
-| Project Code    | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) |
+| Project Code  1  | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) |
+| Project Code  2  | [Code](https://www.analyticsvidhya.com/blog/2021/08/email-spam-detection-a-comparative-analysis-of-4-machine-learning-models/) |
 | Project Code Explanation    | [Code Explanation](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)  |
-| Data Pre Processing   | [Reference](https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/)   
+| Data Pre Processing   | [Reference](https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/)   |
+| TF - IDF - Youtube        | [TF - IDF](https://www.youtube.com/watch?v=hXNbFNCgPfY) |
+| TF - IDF Transformer & TF - IDF Vectorizer | [TF - IDF](https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/) |
+| TF - IDF with Scikit-Learn | [TF - IDF](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html) |  
   
 <br/>
   
