@@ -55,7 +55,7 @@
 |----------------|---------------|---------------|----------------|---------------|---------------|
 |  Add Length Column   | Text Length in seperate column |:heavy_check_mark: |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 |  Clean the text & add it in new column  | Text related preprocessing (stop words removal, word stemming). Conversion of text data to numeric (Tf-idf) |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
-|  Remove the Rows with Null values   | Use python methods to nullify |  |:heavy_check_mark:  |:heavy_check_mark:  |  :heavy_check_mark:
+|  Remove the Rows with Null values   | Use python methods to nullify |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |  :heavy_check_mark:
 |  Verify that there is no more Null values   | Use python methods to verify |  |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark:
 |  Summarization - Statistics  | Use statistical methods to understand the data and apply the required methods. |  |:heavy_check_mark:  |  | :heavy_check_mark:
 |  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your interpretations with varying values |  |:heavy_check_mark:  |  | :heavy_check_mark:
