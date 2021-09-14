@@ -53,7 +53,7 @@
 
 | To Do           | Brief | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|
-|  Add Length Column   | Text Length in seperate column |:x:  |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
+|  Add Length Column   | Text Length in seperate column | |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 |  Clean the text & add it in new column  | Text related preprocessing (stop words removal, word stemming). Conversion of text data to numeric (Tf-idf) |  |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
 |  Remove the Rows with Null values   | Use python methods to nullify |  |:heavy_check_mark:  |:heavy_check_mark:  |  :heavy_check_mark:
 |  Verify that there is no more Null values   | Use python methods to verify |  |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark:
