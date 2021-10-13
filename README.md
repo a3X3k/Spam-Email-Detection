@@ -19,7 +19,7 @@
 | Name           | Link |
 |----------------|---------------|
 | Project Report  | [Report](https://pythonbaba.com/email-spam-classification-project-report/) |
-| SVM & Naive Bayes | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb)  [Report](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)|
+| SVM & Naive Bayes | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) & [Report](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)|
 | Exploratory Data Analysis | [EDA](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a) |
 | Main Code | [GitHub](https://github.com/campusx-official/sms-spam-classifier/blob/main/sms-spam-detection.ipynb) |
   
