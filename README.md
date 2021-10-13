@@ -54,7 +54,7 @@
 |  Summarization - Statistics  | Use statistical methods to understand the data and apply the required methods. |  |:heavy_check_mark:  |  | :heavy_check_mark:
 |  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your interpretations with varying values |  |:heavy_check_mark:  |  | :heavy_check_mark:
 |  Interpretation  | Record all your findings and summary about data. Document all the results with relevant screenshots. Upload the original as well as the cleaned data. |  |:heavy_check_mark:  | | :heavy_check_mark:
-|  KNN Learning  | Learn the KNN Scratch Code |  |  | | 
+|  KNN Learning  | Learn the KNN Scratch Code - DOS 16/10 |  |  | | 
 | SVM |  |  |  | | 
 | Naive Bayes |  |  |  | | 
 | Decision Tree |  |  |  | | 
