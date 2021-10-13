@@ -58,7 +58,7 @@
 | SVM | Learn SVM - 19/10 |
 | Naive Bayes | Learn Naive Bayes - 21/10  | 
 | Decision Tree | Learn Decision Tree  - 24/10 | 
-| Report Making | Phase 27/10 | 
+| Report | Phase 2 -  27/10 | 
   
 </div>
 
