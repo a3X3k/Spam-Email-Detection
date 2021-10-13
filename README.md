@@ -54,10 +54,11 @@
 |  Summarization - Statistics  | Use statistical methods to understand the data and apply the required methods. | 
 |  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your interpretations with varying values | 
 |  Interpretation  | Record all your findings and summary about data. Document all the results with relevant screenshots. Upload the original as well as the cleaned data. |
-|  KNN Learning  | Learn the KNN Scratch Code |
-| SVM | Learn SVM |
-| Naive Bayes | Learn Naive Bayes | 
-| Decision Tree | Learn Decision Tree | 
+|  KNN Learning  | Learn the KNN Scratch Code - 16/10 |
+| SVM | Learn SVM - 19/10 |
+| Naive Bayes | Learn Naive Bayes - 21/10  | 
+| Decision Tree | Learn Decision Tree  - 24/10 | 
+| Report Making | Phase 27/10 | 
   
 </div>
 
