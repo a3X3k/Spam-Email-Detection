@@ -45,19 +45,19 @@
   
 ##  :x: :heavy_check_mark: Progress :heavy_check_mark: :x:
 
-| To Do           | Brief | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
-|----------------|---------------|---------------|----------------|---------------|---------------|
-|  Add Length Column   | Text Length in seperate column |:heavy_check_mark: |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
-|  Clean the text & add it in new column  | Text related preprocessing (stop words removal, word stemming). Conversion of text data to numeric (Tf-idf) |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark:
-|  Remove the Rows with Null values   | Use python methods to nullify |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |  :heavy_check_mark:
-|  Verify that there is no more Null values   | Use python methods to verify |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark:
-|  Summarization - Statistics  | Use statistical methods to understand the data and apply the required methods. |  |:heavy_check_mark:  |  | :heavy_check_mark:
-|  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your interpretations with varying values |  |:heavy_check_mark:  |  | :heavy_check_mark:
-|  Interpretation  | Record all your findings and summary about data. Document all the results with relevant screenshots. Upload the original as well as the cleaned data. |  |:heavy_check_mark:  | | :heavy_check_mark:
-|  KNN Learning  | Learn the KNN Scratch Code - DOS 16/10 |  |  | | 
-| SVM |  |  |  | | 
-| Naive Bayes |  |  |  | | 
-| Decision Tree |  |  |  | | 
+| To Do           | Brief |
+|----------------|---------------|
+|  Add Length Column   | Text Length in seperate column |
+|  Clean the text & add it in new column  | Text related preprocessing (stop words removal, word stemming). Conversion of text data to numeric (Tf-idf) |
+|  Remove the Rows with Null values   | Use python methods to nullify |
+|  Verify that there is no more Null values   | Use python methods to verify |
+|  Summarization - Statistics  | Use statistical methods to understand the data and apply the required methods. | 
+|  Visualization - Exploratory Data Analysis  | Visualize the data using various plots like scatterplot, histograms, box plot etc and record your interpretations with varying values | 
+|  Interpretation  | Record all your findings and summary about data. Document all the results with relevant screenshots. Upload the original as well as the cleaned data. |
+|  KNN Learning  | Learn the KNN Scratch Code |
+| SVM | Learn SVM |
+| Naive Bayes | Learn Naive Bayes | 
+| Decision Tree |Learn Decision Tree | 
   
 </div>
 
