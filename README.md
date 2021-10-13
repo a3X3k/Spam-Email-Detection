@@ -57,7 +57,7 @@
 |  KNN Learning  | Learn the KNN Scratch Code |
 | SVM | Learn SVM |
 | Naive Bayes | Learn Naive Bayes | 
-| Decision Tree |Learn Decision Tree | 
+| Decision Tree | Learn Decision Tree | 
   
 </div>
 
