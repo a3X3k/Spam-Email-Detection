@@ -51,7 +51,7 @@
 
 - To run this project, install and setup the following Libraries,
 
-```py    
+```js    
 !pip install numpy
 !pip install scipy
 !pip install matplotlib
