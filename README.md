@@ -1,30 +1,107 @@
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 <div align = "center">
 
 # [Spam Email Detection](#)
+  
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-### Team Members
+## Table of Contents
 
-| Name           | Roll Number |
-|----------------|---------------|
-| Arvind Kumar    | AM.EN.U4CSE19109   | 
-| Harsha Sathish   | AM.EN.U4CSE19123 |  
-| Navneet Kumar    | AM.EN.U4CSE19138  |  
-| Abhishek   | AM.EN.U4CSE19147   |
+</br>
+
+| | Table Of Contents |
+|--|----------------|
+| 1 | [About](#About)  |
+| 2 | [Setup](#setup)  | 
+| 3 | [Libraries](#Libraries) |
+| 4 | [Data Set](#Data-Set) |
+| 5 | [Contributors](#Contributors) | 
+
+</div>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## Directory Structure
+
+```js
+├── Source
+│   ├── FDS.ipynb
+|
+├── Report
+│   ├── Report.pdf
+│
+├── Data Set
+│   ├── Apr.csv
+│   ├── May.csv
+│   ├── Jun.csv
+│   ├── Jul.csv
+│   ├── Sep.csv
+│   ├── Uber - 2016.csv
+│
+└── Index.html  
+│ 
+└── README.md
+```
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
-  
-<br/>
-  
-## Reference Links
+## About
+
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## Setup
+
+- To run this project, install and setup the following Libraries,
+
+```py                         
+pip install plotly
+pip install mplleaflet
+pip install chart_studio
+pip3 install https://github.com/matplotlib/basemap/archive/master.zip
+```
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## Libraries
+
+- Project is created with,
+
+	* [Plotly](#Libraries)
+	* [Datetime](#Libraries)
+	* [Stockstats](#Libraries)
+	* [Matplotlib](#Libraries)
+	* [Pandas](#Libraries)
+	* [Numpy](#Libraries)
+	* [Seaborn](#Libraries)
+	* [Mpl_toolkits](#Libraries)
+	* [Sklearn](#Libraries)
+	* [Geopy](#Libraries)
+	* [Shapely](#Libraries)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+<div align = "center">
+    
+## Data-Set
 
 | Name           | Link |
 |----------------|---------------|
-| All Algorithm Comparison | [GitHub](https://github.com/campusx-official/sms-spam-classifier/blob/main/sms-spam-detection.ipynb) |
-| SVM & Naive Bayes | [Code](https://github.com/Sumit-Rakesh/Email-Spam-Detection-classification-project-in-python/blob/main/email_spam_classifier.ipynb) & [Report](https://pythonbaba.com/python-code-for-email-spam-classification-using-machine-learning/)|
+|  Kaggle   | [Kaggle](#) |
+  
+</div>
 
-<br/>
+<div align = "center">
+	
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## Contributors
   
-## Data Set Links
-  
-| [Kaggle](https://www.kaggle.com/harshsinha1234/email-spam-classification) | [Kaggle](https://www.kaggle.com/venky73/spam-mails-dataset) | [Enron](http://www2.aueb.gr/users/ion/data/enron-spam/) | [Kaggle](https://www.kaggle.com/ganiyuolalekan/spam-assassin-email-classification-dataset) | [Kaggle](https://www.kaggle.com/ozlerhakan/spam-or-not-spam-dataset) | [Kaggle](https://www.kaggle.com/pramodgupta92/fraud-email-datasets) | 
-|----------------|---------------|---------------|----------------|---------------|---------------|
-<br/>
+| [S Abhishek](https://github.com/a3X3k/) | [Harsha Sathish](https://github.com/hxrshx)| [Navneet Kumar Singh](https://github.com/navneet555k) | [Bikash Chandra](https://github.com/w0lf-reverse) | [Arvind Kumar K](https://github.com/arvindkumar-prog) |
+|----------------|----------------|----------------|----------------|----------------|
+
+</div>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
