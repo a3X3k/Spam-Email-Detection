@@ -50,7 +50,14 @@
 
 - To run this project, install and setup the following Libraries,
 
-```py                         
+```py    
+!pip install numpy
+!pip install scipy
+!pip install matplotlib
+!pip install pandas
+!pip install seaborn
+!pip install pillow
+!pip install scikit-learn
 ```
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
