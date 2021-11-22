@@ -43,6 +43,11 @@
   
 ## About
 
+- In our day-to-day life, Spam Emails are considered to be annoying and repetitive, which is solely send for the purpose of advertisement and brand promotion.
+- It is one of the most demanding and troublesome internet issues in today’s world of communication and technology. 
+- Sending malicious link through spam emails which can harm our system and can also seek in into your system. 
+- Spam emails not only influence the organizations financially but also exasperate the individual email user. 
+- This project will identify those spam by using techniques of machine learning, where it applies algorithms on our data sets and the best algorithm is selected for the email spam detection having best precision and accuracy.
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
