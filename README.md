@@ -32,12 +32,6 @@
 │   ├── Report.pdf
 │
 ├── Data Set
-│   ├── Apr.csv
-│   ├── May.csv
-│   ├── Jun.csv
-│   ├── Jul.csv
-│   ├── Sep.csv
-│   ├── Uber - 2016.csv
 │
 └── Index.html  
 │ 
@@ -57,10 +51,6 @@
 - To run this project, install and setup the following Libraries,
 
 ```py                         
-pip install plotly
-pip install mplleaflet
-pip install chart_studio
-pip3 install https://github.com/matplotlib/basemap/archive/master.zip
 ```
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -69,17 +59,11 @@ pip3 install https://github.com/matplotlib/basemap/archive/master.zip
 
 - Project is created with,
 
-	* [Plotly](#Libraries)
-	* [Datetime](#Libraries)
-	* [Stockstats](#Libraries)
 	* [Matplotlib](#Libraries)
 	* [Pandas](#Libraries)
 	* [Numpy](#Libraries)
 	* [Seaborn](#Libraries)
-	* [Mpl_toolkits](#Libraries)
 	* [Sklearn](#Libraries)
-	* [Geopy](#Libraries)
-	* [Shapely](#Libraries)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
@@ -89,7 +73,7 @@ pip3 install https://github.com/matplotlib/basemap/archive/master.zip
 
 | Name           | Link |
 |----------------|---------------|
-|  Kaggle   | [Kaggle](#) |
+|  Kaggle   | [Kaggle](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city/download) |
   
 </div>
 
