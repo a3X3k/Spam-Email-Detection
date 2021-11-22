@@ -93,19 +93,6 @@
 <div align = "center">
 	
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-## Images
-
-</br>
-<img src="https://user-images.githubusercontent.com/52845731/142866816-8ab10a22-0a8d-4f9b-b826-bb3609646db8.png" alt="drawing" width="300"/>
-</br>
-
-</br>
-<img src="https://user-images.githubusercontent.com/52845731/142866892-fe3ed3d4-b5d8-4b67-b44d-cb2bff1c9a69.png" alt="drawing" width="800"/>
-</br>
-</br>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 	
 ## Contributors
   
