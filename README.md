@@ -99,7 +99,6 @@
 ![image](https://user-images.githubusercontent.com/52845731/142866816-8ab10a22-0a8d-4f9b-b826-bb3609646db8.png)
 ![image](https://user-images.githubusercontent.com/52845731/142866837-2d6bbf55-e673-4f9d-b321-5f0ae0fdae86.png)
 ![image](https://user-images.githubusercontent.com/52845731/142866892-fe3ed3d4-b5d8-4b67-b44d-cb2bff1c9a69.png)
-![image](https://user-images.githubusercontent.com/52845731/142866905-98d1b12b-70b4-4971-9912-74ee319a690c.png)
 	
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 	
