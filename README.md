@@ -98,8 +98,8 @@
 	
 ## Other Contributors
   
-| [Harsha Sathish](https://github.com/hxrshx)| [Navneet Kumar Singh](https://github.com/navneet555k) |
-|----------------|----------------|
+| [Harsha Sathish](https://github.com/hxrshx)|
+|----------------|
 
 </div>
 
