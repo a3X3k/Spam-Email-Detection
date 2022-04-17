@@ -25,11 +25,6 @@
 ## Directory Structure
 
 ```js
-├── Source
-│   ├── ML.ipynb
-|
-├── Report
-│   ├── Report.pdf
 │
 ├── Data Set
 │   ├── Spam & Ham.csv
