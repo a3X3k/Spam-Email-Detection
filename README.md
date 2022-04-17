@@ -25,7 +25,6 @@
 ## Directory Structure
 
 ```js
-│
 ├── Data Set
 │   ├── Spam & Ham.csv
 │
